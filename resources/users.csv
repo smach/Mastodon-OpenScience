@@ -23,6 +23,7 @@ account,name,keywords
 @JohannesBreuer@fediscience.org,Johannes Breuer,communication media_psychology computational_methods replicability reproducibility
 @rob_models@mas.to,Rob Moss,open_science reproducibility epidemiology infectious_diseases
 @LudwigHuelk@mastodon.social,Ludwig Hülk,open_science energy_system_analysis open_energy_platform
+@schochastics@fosstodon.org,David Schoch,open_science rstats open_data
 @helenahartmann@fediscience.org, Helena Hartmann, open_science open_scholarship replication_studies FORRT preregistration neuroscience psychology fMRI
 @selgebali@qoto.org, Sara El-Gebali, open_science fair_data dei
 @FrederikAust@fediscience.org,Frederik Aust,cognition computational_reproducibility open_source statistics
@@ -38,4 +39,3 @@ account,name,keywords
 @nielsmede,Niels Mede,communication digital_media open_science science_communication survey_methodology
 @matherion@mastodon.nl,Gjalt-Jorn Peters,open_science behavior_change methodology measurement validity rstats
 @mob@akademienl.social,Monika Barget,open_access retrospective_OA open_data_in_history public_engagement
-
