@@ -29,7 +29,7 @@ account,name,keywords
 @selgebali@qoto.org, Sara El-Gebali, open_science fair_data dei
 @FrederikAust@fediscience.org,Frederik Aust,cognition computational_reproducibility open_source statistics
 @zpneal,Zachary Neal,open_science open_data open_access open_source
-@ChristophB@fediscience.org,Christoph, meta_analysis bayesian psychology
+@ChristophB@fediscience.org,Christoph Bamberg, meta_analysis bayesian psychology
 @juglugs@mastodonapp.uk,Widdershins Smith,
 @Daniel_Heck@mastodon.social,Daniel Heck,bayesian meta_analysis statistics psychometrics
 @twm@mastodon.sdf.org,Timothy Monteath,
@@ -52,3 +52,5 @@ account,name,keywords
 @xenia_ks@dizl.de,Xenia Schmalz,reproducibility falsifiability psycholinguistics dyslexia cross-language_research 
 @toothFAIRy@scholar.social,Esther Plomp,reproducibility open_science scholarly_communication open_data FAIR RDM
 @HeidiSeibold@fosstodon.org,Heidi Seibold,open_science reproducibility data_science life_science open_source open_data
+@GordonFeld,Gordon Feld,open_science reproducibility effect_sizes EEG fMRI MEG
+@lisaspitzer@fediscience.org, Lisa Spitzer,open_science meta-research reproducibility preregistration eye-tracking
