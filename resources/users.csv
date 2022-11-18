@@ -74,7 +74,7 @@ account,name,keywords
 @improvingpsych@fediscience.org,Society for the Improvement of Psychological Science,community diversity global_engagement metapsychology metascience methods open_access open_data open_source professional_organization preprints preregistration psychology registered_reports reproducibility social_sciences statistics transparency
 @drcpennington@mastodon.social,Charlotte Pennington,open_science addiction_science social_cognition scicomm
 @jotschirr@openbiblio.social,Jochen Schirrwagen,open_science open_access university_library
-@termehs@fediscience.org,Termeh Shafie, statistics rstats reproducibility
+@termehs@fediscience.org,Termeh Shafie,statistics rstats reproducibility
 @flavioazevedo@mastodon.social,Flavio Azevedo,open_scholarship open_science science_education open_educational_resources
 @FORRT@mastodon.social,FORRT (Framework for Open and Reproducible Research Training),open_scholarship open_science science_education open_educational_resources
 @sortee@ecoevo.social,SORTEE (Society for Open Reliable and Transparent ecology and Evolutionary biology),open_science open_research reproducibility meta_science open_educational_resources community open_access open_data open_source preprints preregistration biology registered_reports reproducibility statistics transparency
@@ -91,9 +91,9 @@ account,name,keywords
 @Flor__Mu@qoto.org,Floriane Muller,open_access open_data open_science
 @mostlyphysics@fediscience.org,Toma Susi,open_access open_science open_software computational_methods policy
 @enroweb@qoto.org,Antoine Blanchard,france open_data research_data FAIR_data STS research_on_resarch metascience
-@datacite@openbiblio.social, DataCite, open_science open_access open_data research_data_management FAIR_data metadata research scholarly_communication scicomm reproducibility data_science open_source
-@paul4kant@scicomm.xyz, Paul Vierkant, open_science open_access open_data research_data_management FAIR_data metadata research scholarly_communication scicomm reproducibility data_science open_source
-@kuf@mastodon.social, Konrad Förstner, opens_science nfdi bioinformatics omics_data FAIR text_mining life_sciences knowledge_graphs podcast
+@datacite@openbiblio.social,DataCite,open_science open_access open_data research_data_management FAIR_data metadata research scholarly_communication scicomm reproducibility data_science open_source
+@paul4kant@scicomm.xyz,Paul Vierkant,open_science open_access open_data research_data_management FAIR_data metadata research scholarly_communication scicomm reproducibility data_science open_source
+@kuf@mastodon.social,Konrad Förstner,opens_science nfdi bioinformatics omics_data FAIR text_mining life_sciences knowledge_graphs podcast
 @h2@sciences.social,Hanjo Hamann,open_access digitalization_of_law legal_linguistics
 @jeremiahpslewis@econtwitter.net,Jeremiah Lewis,open_science open_data replicability reproducibility
 @MaksBgm@hcommons.social,Max Bergmann,open_access OA_books open_publishing
