@@ -76,7 +76,7 @@ account,name,keywords
 @jotschirr@openbiblio.social,Jochen Schirrwagen,open_science open_access university_library
 @termehs@fediscience.org,Termeh Shafie, statistics rstats reproducibility
 @flavioazevedo@mastodon.social,Flavio Azevedo,open_scholarship open_science science_education open_educational_resources
-@FORRT@mastodon.social, FORRT (Framework for Open and Reproducible Research Training),open_scholarship open_science science_education open_educational_resources
+@FORRT@mastodon.social,FORRT (Framework for Open and Reproducible Research Training),open_scholarship open_science science_education open_educational_resources
 @sortee@ecoevo.social,SORTEE (Society for Open Reliable and Transparent ecology and Evolutionary biology),open_science open_research reproducibility meta_science open_educational_resources community open_access open_data open_source preprints preregistration biology registered_reports reproducibility statistics transparency
 @zuphilip@openbiblio.social,Philipp Zumstein,open_access open_science open_source reproducibility
 @fbartos@mastodon.social,František Bartoš,meta-analysis publication_bias replicability bayesian
@@ -90,5 +90,6 @@ account,name,keywords
 @meliimming@akademienl.social,Melanie Imming,open_science FAIR_data digital_cultural_heritage impact
 @Flor__Mu@qoto.org,Floriane Muller,
 @mostlyphysics@fediscience.org,Toma Susi,open_access open_science open_software computational_methods policy
+@enroweb@qoto.org,Antoine Blanchard,france open_data research_data FAIR_data STS research_on_resarch metascience
 @datacite@openbiblio.social, DataCite, open_science open_access open_data research_data_management FAIR_data metadata research scholarly_communication scicomm reproducibility data_science open_source
 @paul4kant@scicomm.xyz, Paul Vierkant, open_science open_access open_data research_data_management FAIR_data metadata research scholarly_communication scicomm reproducibility data_science open_source
