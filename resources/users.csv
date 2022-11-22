@@ -130,7 +130,7 @@ account,name,keywords
 @giladfeldman,Gilad Feldman,
 @jeremyeberle@scicomm.xyz,Jeremy Eberle,clinical_psychology emotional_disorders mechanisms_of_change open_science methodology measurement
 @Bawan@akademienl.social,Bawan Amin,open_science open_access preprints
-@MarieKmita@genomic.social,Marie Kmita,
+@MarieKmita@genomic.social,Marie Kmita,dev_bio women_in_stem evo_devo stop_toxic_PIs
 @emrinke@mas.to,Eike Mark Rinke,open_science replicability reproducibility open_educational_resources open_data
 @maehr@mastodon.social,Moritz Mähr,open_data open_access open_source
 @Lambo@scholar.social,Lambert Heller,NFDI open_educational_resources open_textbooks book_sprints hackathons
@@ -138,7 +138,7 @@ account,name,keywords
 @mariacruz@akademienl.social,Maria Cruz,open_science open_data fair_data research_software community scholarly_communication
 @hansijzerman@sciences.social,Hans Rocha IJzerman,open_science big-team_science registered_reports generalizability PSA CREP
 @niketagrawal@fosstodon.org,Niket Agrawal,free_and_open_source_software_enthusiast R JAMOVI Python Psychopy OSF JASP jsPscyh statistics_programming psychophysical_experiments 
-@OmidVEbrahimi@mastodon.social,Omid Vakili Ebrahimi,
+@OmidVEbrahimi@mastodon.social,Omid Vakili Ebrahimi,open_science open_code open_materials mental_health
 @ronnyroewert@bildung.social,Ronny Röwert,open_science open_educational_resources metascience science_communication
 @Sam_D_Parsons@mastodon.world,Sam Parsons,psychometrics brain_imaging open_scholarship open_science science_education open_educational_resources
 @hildabast@mastodon.online,Hilda Bastian,open_science metascience metaresearch reproducibility scicomm
@@ -148,3 +148,7 @@ account,name,keywords
 @rgaiacs@social.cologne,Raniere Silva,open_source open_data open_access rse replicability reproducibility open_educational_resources
 @donny@fairpoints.social,Donny Winston,FAIR open_science open_source open_data
 @JeffreyRStevens@fediscience.org,Jeff Stevens,open_science big_team_science reproducibility
+@enigmaticocean@scholar.social,Daniel Bangert,open_science open_research open_access FAIR_data research_policy
+@ansophiliert@bildung.social,Anne-Sophie Waag,open_educational_resources open_educational_practices
+@HLoenneker@home.social,Hannah Loenneker,metaresearch reproducibility open_access open_data
+@vanessa@scicomm.xyz,Vanessa Fairhurst,open_science prereview preprints open_peer_review diversity equity_and_inclusion
