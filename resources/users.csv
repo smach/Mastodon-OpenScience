@@ -26,7 +26,7 @@ account,name,keywords
 @nuestmstdn.social,Daniel Nüst, open_x reproducibility scholarly_communication peer_review rdm fdm nfdi
 @schochastics@fosstodon.org,David Schoch,open_science rstats open_data
 @helenahartmann@fediscience.org, Helena Hartmann, open_science open_scholarship replication_studies FORRT preregistration neuroscience psychology fMRI
-@selgebali@qoto.org, Sara El-Gebali, open_science fair_data dei
+@yalahowy@fairpoints.social, Sara El-Gebali, open_science fair_data dei
 @FrederikAust@fediscience.org,Frederik Aust,cognition computational_reproducibility open_source statistics
 @zpneal,Zachary Neal,open_science open_data open_access open_source
 @ChristophB@fediscience.org,Christoph Bamberg, meta_analysis bayesian psychology
@@ -167,5 +167,7 @@ account,name,keywords
 @Centre_Mersenne@mastodon.online,Centre Mersenne,open_access
 @janneseppanen@mas.to,Janne-Tuomas Seppänen,open_peer_review research_evaluation open_science
 @brembs@mastodon.social,Björn Brembs,neuroscience open_science
-@pacobib@mastodon.cloud,Paco Martínez
+@pacobib@mastodon.cloud,Paco Martínez,
+@veit@mastodon.social,Veit Schiele,open_science open_data replicability reproducibility open_educational_resources open_infrastructure privacy
+@aalpha@sigmoid.social,Alberto Antonietti,neuroscience open_science metaresearch replicability reproducibility open_educational_resources open_data
 @julsraemy@hcommons.social,Julien A. Raemy,open_data open_metadata linked_open_data digital_humanities
