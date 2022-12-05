@@ -15,7 +15,7 @@ account,name,keywords
 @drrodebaugh@fediscience.org,Tom Rodebaugh,clinical_psychology social_anxiety tinnitus intensive_longitudinal_data
 @sanjaysrivastava@mas.to,Sanjay Srivastava,open_science diversity_and_inclusion psychology metascience industry
 @david_colquhoun@mstdn.social,David Colquhoun,statistics reproducibility
-@hye@glammr.us,Hao Ye, open_science reproducibility diversity_and_inclusion open_data open_grants 
+@hye@glammr.us,Hao Ye, open_science reproducibility diversity_and_inclusion open_data open_grants
 @profgaelle@hci.social,Gaelle Vallee-Tourangeau,research_on_research peer_review open_research
 @EMarinus@mstdn.social,Eva Marinus,CSEd registered_reports replication_studies open_science open_research_data open_access
 @phensel@fediscience.org,Przemysław Hensel,open_science open_data reproducibility replicability management business
@@ -39,7 +39,7 @@ account,name,keywords
 @smirandafield@akademienl.social,Sarahanne M Field,metascience responsible_research reflexivity open_science
 @ndporter@sciences.social,Nathaniel D Porter,open_science reproducibility open_data sociology open_analysis open_educational_resources
 @nielsmede,Niels Mede,communication digital_media open_science science_communication survey_methodology
-@asaxena87@mas.to,Abhishek Saxena,open_science science_and_society scicomm scied diversity_and_inclusion women_in_science women_in_STEM preprints alterity_in_academia 
+@asaxena87@mas.to,Abhishek Saxena,open_science science_and_society scicomm scied diversity_and_inclusion women_in_science women_in_STEM preprints alterity_in_academia
 @matherion@mastodon.nl,Gjalt-Jorn Peters,open_science behavior_change methodology measurement validity rstats
 @mob@akademienl.social,Monika Barget,open_access retrospective_OA open_data_in_history public_engagement
 @AnnaLSchubert@fediscience.org,Anna-Lena Schubert,individual_differences neuroscience cognitive_modeling open_science
@@ -50,7 +50,7 @@ account,name,keywords
 @lnnrtwttkhn@fediscience.org,Lennart Wittkuhn,open_code open_data version_control computational_reproducibility cognitive_neuroscience rdm
 @jcolomb@nerdculture.de,Juilien Colomb,research_data_management collaboration team_science
 @libcce@fosstodon.org,Chris Erdmann, open_science open_data open_access open_source fair_data fair_workflows research_software
-@xenia_ks@dizl.de,Xenia Schmalz,reproducibility falsifiability psycholinguistics dyslexia cross-language_research 
+@xenia_ks@dizl.de,Xenia Schmalz,reproducibility falsifiability psycholinguistics dyslexia cross-language_research
 @toothFAIRy@scholar.social,Esther Plomp,reproducibility open_science scholarly_communication open_data FAIR RDM
 @HeidiSeibold@fosstodon.org,Heidi Seibold,open_science reproducibility data_science life_science open_source open_data
 @GordonFeld,Gordon Feld,open_science reproducibility effect_sizes EEG fMRI MEG
@@ -61,9 +61,9 @@ account,name,keywords
 @JacksonSmith@fediscience.org,Jackson A. Smith,clinical_psychology community_psychology developmental_trauma family_systems resilience
 @timelfen@assemblag.es,Timothy Elfenbein,open_access open_infrastructure metadata methods_sharing humanities_and_social_science_publishing
 @farahcolette@mastodon.green,Farah Colette,
-@SNL_Luebeck@mstdn.social,Social Neuroscience Lübeck,computational_neuroscience fMRI psychiatry meta-science 
+@SNL_Luebeck@mstdn.social,Social Neuroscience Lübeck,computational_neuroscience fMRI psychiatry meta-science
 @asehelene@mastodon.sdf.org,Åse Innes-Ker,open_science meta_science replicability psychology emotion
-@LeaMariaFer@openbiblio.social,Lea Maria Ferguson,open_science open_research open_access science_communication 
+@LeaMariaFer@openbiblio.social,Lea Maria Ferguson,open_science open_research open_access science_communication
 @jrgptrs@econtwitter.net,Jörg Peters,development_&_environmental_economist energy_access climate_policy research_transparency replication meta-science
 @Cybergamepsych@peoplemaking.games,George Farmer,reproducibility open_science
 @ignactro@mastodon.social,Ignacio Castro,metaresearch decentralised_web
@@ -100,7 +100,7 @@ account,name,keywords
 @MaksBgm@hcommons.social,Max Bergmann,open_access OA_books open_publishing
 @joeroe@archaeo.social,Joe Roe,open_science open_data
 @lgatto@fosstodon.org,Laurent Gatto,open_science open_research open_source replicability reproducibility open_educational_resources inclusive_research open_data
-@collend@mamot.fr,Christine Ollendorff,open_science scholcomm academic_library science_ouverte ESR 
+@collend@mamot.fr,Christine Ollendorff,open_science scholcomm academic_library science_ouverte ESR
 @LynneeLue@hcommons.social,Lynnee Argabright,open_science open_data research_data_management data_ethics libraries FAIR_data
 @yannbd@fediscience.org,Yann Benétreau-Dupin,open_science open_access_publishing meta-science
 @CorinaLogan,Corina Logan,open_research ethical_publishing anti-racist/anti-sexist_(+_more)_infrastructure registered_reports reproducible_workflows Bullied_Into—Bad_Science ManyIndividuals animal_cognition
@@ -137,12 +137,12 @@ account,name,keywords
 @psforscher,Patrick S. Forscher,open_science big_team_science behavioral_science global_development
 @mariacruz@akademienl.social,Maria Cruz,open_science open_data fair_data research_software community scholarly_communication
 @hansijzerman@sciences.social,Hans Rocha IJzerman,open_science big-team_science registered_reports generalizability PSA CREP
-@niketagrawal@fosstodon.org,Niket Agrawal,free_and_open_source_software_enthusiast R JAMOVI Python Psychopy OSF JASP jsPscyh statistics_programming psychophysical_experiments 
+@niketagrawal@fosstodon.org,Niket Agrawal,free_and_open_source_software_enthusiast R JAMOVI Python Psychopy OSF JASP jsPscyh statistics_programming psychophysical_experiments
 @OmidVEbrahimi@mastodon.social,Omid Vakili Ebrahimi,open_science open_code open_materials mental_health
 @ronnyroewert@bildung.social,Ronny Röwert,open_science open_educational_resources metascience science_communication
 @Sam_D_Parsons@mastodon.world,Sam Parsons,psychometrics brain_imaging open_scholarship open_science science_education open_educational_resources
 @hildabast@mastodon.online,Hilda Bastian,open_science metascience metaresearch reproducibility scicomm
-@ianhussey@scicomm.xyz,Ian Hussey,open_science metascience measurement replicability psychology 
+@ianhussey@scicomm.xyz,Ian Hussey,open_science metascience measurement replicability psychology
 @Lou_Kulke@mastodon.world,Louisa Kulke,open_science preregistrations replicability multi-lab-projects psychology neuroscience
 @danielskatz@fosstodon.org,Daniel S. Katz,open_source research_software policy rse open_peer_review scholarly_communication
 @rgaiacs@social.cologne,Raniere Silva,open_source open_data open_access rse replicability reproducibility open_educational_resources
@@ -193,3 +193,4 @@ account,name,keywords
 @visnut@aus.social,,
 @DonVanRaven@akademienl.social,Don van Raven,Bayesian_inference computational_methods reproducibility
 @prereview@mas.to,PREreview,open_science prereview preprints open_peer_review diversity equity_and_inclusion
+@dschwen@fosstodon.org,Daniel Schwen,open_source computational_methods phase_field finite_elements preprints computational_materials_science
